@@ -1,0 +1,8 @@
+C:\Users\amalhotra\Desktop\Work\EDM\EDM\bin\EDM.dll
+C:\Users\amalhotra\Desktop\Work\EDM\EDM\bin\EDM.pdb
+C:\Users\amalhotra\Desktop\Work\EDM\EDM\obj\Debug\EDM.dll
+C:\Users\amalhotra\Desktop\Work\EDM\EDM\obj\Debug\EDM.pdb
+C:\Users\amalhotra\Documents\GitHub\edm\EDM\EDM\bin\EDM.dll
+C:\Users\amalhotra\Documents\GitHub\edm\EDM\EDM\bin\EDM.pdb
+C:\Users\amalhotra\Documents\GitHub\edm\EDM\EDM\obj\Debug\EDM.dll
+C:\Users\amalhotra\Documents\GitHub\edm\EDM\EDM\obj\Debug\EDM.pdb
